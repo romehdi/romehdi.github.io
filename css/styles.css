@@ -1,0 +1,194 @@
+body {
+  font-family: 'Merriweather', serif;
+  margin: 0;
+  text-align: center;
+
+}
+
+
+h3 {
+  color: #11999E;
+}
+h2 {
+  color: #11999E;
+}
+
+.segment-separater {
+  margin-top: 30px;
+  margin-bottom: 30px;
+  border-style: none;
+  width: 70%;
+  height: 0;
+  border-top: 5px dotted;
+}
+/********************Top part with all its details******************/
+
+.top_part {
+  padding-left: 200px;
+  padding-right: 200px;
+  background-color: #54BAB9;
+}
+.me {
+  border-radius: 50%;
+}
+.name_title {
+    color: #F1F1F1;
+    font-size: 5.00rem;
+    padding-top: 20px;
+    font-family: 'Sacramento', cursive;
+    margin: 0;
+}
+.job_title{
+  color:  #F1F1F1;
+  font-size: 1rem;
+  font-family: 'Montserrat', sans-serif;
+  margin: 0;
+  padding-left: 30px;
+}
+.pro {
+  text-decoration: underline;
+  margin: 0;
+}
+
+.first_cloud {
+  padding-top: 30px;
+  position: absolute;
+  right: 100px
+}
+
+.second_cloud {
+  position: absolute;
+}
+
+/******************************Mid part with all details******************/
+.middle-container {
+  width: 50%;
+  margin: auto;
+}
+.personal_description {
+  line-height: 2;
+}
+
+.skill_intro {
+  width: 50%;
+  margin: auto;
+}
+
+.skill_intro0{
+  text-align: left;
+  line-height: 2;
+}
+.skills_separater0{
+  width: 30%;
+}
+
+.skill-row0{
+  width: 50%;
+  margin: auto;
+}
+.skill_row00{
+  text-align: left;
+  line-height: 2;
+}
+.python_img{
+  float:left;
+  padding-right: 30px;
+}
+.python_title{
+  padding-left: 600px;
+}
+.skill-row1{
+  width: 50%;
+  margin: auto;
+}
+.skill_row10{
+  text-align: left;
+  line-height: 2;
+}
+
+.html_img{
+  float: right;
+  padding-left: 30px;
+}
+.css_img{
+  float: left;
+  padding-right: 30px;
+}
+.css_title{
+  padding-left: 600px;
+}
+.skill-row2{
+  width: 50%;
+  margin: auto;
+}
+.skill_row20{
+  text-align: left;
+  line-height: 2;
+}
+.css_img {
+  float: left;
+}
+.skill-row3{
+  width: 50%;
+  margin: auto;
+}
+.skill_row30{
+  text-align: left;
+  line-height: 2;
+}
+.javascript_img{
+  float: right;
+  padding-left: 30px;
+}
+
+.mid_part {
+
+}
+
+.python_img{
+  border-radius: 50%
+}
+
+.skills_separater {
+  width: 30%
+}
+
+
+
+/**************************Contact part with all details******************/
+.contact-me {
+  padding-bottom: 20px;
+}
+
+
+
+
+.btn {
+  margin-top: 50px;
+  margin-bottom: 20px;
+  background-color: #11999E;
+  border: 0;
+  color: white;
+}
+
+
+
+
+/**************************Bottom part with all details******************/
+
+.bottom-container {
+  padding-top: 10px;
+  padding-bottom: 0;
+  background-color: #54BAB9;
+
+}
+.footer-link{
+  color: #11999E;
+  text-decoration: none;
+  padding: 20px;
+}
+.properties {
+  font-size: 0.8rem;
+  color : #F1F1F1;
+  margin-bottom: 0;
+}
